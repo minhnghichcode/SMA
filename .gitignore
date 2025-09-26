@@ -1,0 +1,10 @@
+# MIA By HDBank
+
+Config.xcconfig
+ENV.md
+*.env
+*.env.local
+*.env.production
+*.github
+*.plist
+Config.swift

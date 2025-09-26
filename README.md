@@ -1,6 +1,3 @@
-Chắc chắn rồi, dưới đây là phiên bản tài liệu đã được viết lại, loại bỏ các icon và roadmap để tập trung vào nội dung kỹ thuật và hướng dẫn một cách chuyên nghiệp.
-
----
 
 # MIA - Trợ Lý Tài Chính AI
 
